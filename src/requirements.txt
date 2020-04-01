@@ -1,0 +1,3 @@
+Augmentor
+matplotlib
+tqdm
